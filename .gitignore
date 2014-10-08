@@ -1,0 +1,13 @@
+#############
+## Eclipse ##
+#############
+
+TF2 Simple Key Converter/bin/
+.metadata/
+TF2 Simple Key Converter/.settings/
+build/
+eclipse/
+TF2 Simple Key Converter/.classpath
+TF2 Simple Key Converter/.project
+.recommenders/
+
