@@ -10,3 +10,5 @@ Changelog
 =============
 Version 1
 - Inital Release
+
+Download Link: http://bombch.us/rqe
